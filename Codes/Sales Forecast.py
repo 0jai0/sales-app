@@ -35,7 +35,7 @@ warnings.filterwarnings('ignore')
 # In[2]:
 
 
-os.chdir('C:\\Users\\Shridhar\\Desktop\\Sales Project')
+os.chdir('C:\\Users\\Kiran\\Desktop\\Sales Project')
 df = pd.read_csv('Train.csv')
 
 
